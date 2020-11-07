@@ -9,3 +9,6 @@ Common errors:
       - Open a CMD, and using "pip install -packagename-" install the package.
   - Specify the location of geckodriver.exe in your "PATH" variable
       - Open File Explorer, right-click on "This PC" and choose Properties. From there, click on "Advanced system settings" and then choose "Environment Variables".    Double click on "Path" and paste your driver's location there.
+
+
+Tutorial available on our Instagram page: https://www.instagram.com/p/CHNuwBlpj9J/
